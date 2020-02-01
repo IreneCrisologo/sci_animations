@@ -9,3 +9,5 @@
 #### Attenuation affects rainfall measurements
 ![Attenuation affects rainfall measurements](Attenuation.gif)
 
+#### Raindrops are not tear drop shaped!
+![Raindrops are not tear drop shaped](Raindropshape.gif)
