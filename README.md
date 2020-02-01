@@ -11,3 +11,4 @@
 
 #### Raindrops are not tear drop shaped!
 ![Raindrops are not tear drop shaped](Raindropshape.gif)
+Raindrops start as small spheres. ❌💧 They collide with each other as they fall and merge to become bigger raindrops. As they grow, larger raindrops get flatter bottoms, because of the air pushing upwards. When a raindrop becomes too large, it splits into smaller spheres again.
