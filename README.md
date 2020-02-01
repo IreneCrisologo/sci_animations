@@ -6,3 +6,6 @@
 #### How radars collect rainfall information (Part 2)
 ![How radars collect rainfall information (part 2)](polar_a.gif)
 
+#### Attenuation affects rainfall measurements
+![Attenuation affects rainfall measurements](Attenuation.gif)
+
