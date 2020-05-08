@@ -18,4 +18,4 @@ Raindrops start as small spheres. ❌💧 They collide with each other as they f
 Falling snow can be detected by ceilometers, which are vertically pointing lasers used to measure cloud tops/bottoms. Strong winds re-suspend snow and breaks the snowflakes, and more particles are detected. Idea from Aaron Kennedy.
 
 #### Lidar detection of clouds and rain
-![Lidar detection of clouds and rain](lidarcloudv_freezeframe_slow.gif.gif)
+![Lidar detection of clouds and rain](lidarcloudv_freezeframe_slow.gif)
