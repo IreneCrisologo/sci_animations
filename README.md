@@ -1,5 +1,8 @@
 # A collection of short animated videos I made to explain some concepts in and around radar science
 
+#### How radars work (short version)
+![How radars work](radar_text_vfs_irene.gif)
+
 #### How radars collect rainfall information (Part 1)
 ![How radars collect rainfall information (part 1)](radar2_a.gif)
 
