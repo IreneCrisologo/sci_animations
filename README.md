@@ -1,5 +1,7 @@
 # A collection of short animated videos I made to explain some concepts in and around radar science
 
+All works CC BY-NC-ND (Attribution + Noncommercial + NoDerivatives)
+
 #### How radars work (short version)
 ![How radars work](radar_text_vfs_irene.gif)
 
