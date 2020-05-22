@@ -22,3 +22,6 @@ Falling snow can be detected by ceilometers, which are vertically pointing laser
 
 #### Lidar detection of clouds and rain
 ![Lidar detection of clouds and rain](lidarcloudv_freezeframe_slow.gif)
+
+#### Banner cloud formation
+![Banner cloud formation](bannercloud_small.gif)
