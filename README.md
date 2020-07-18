@@ -1,6 +1,9 @@
-# A collection of short animated videos I made to explain some concepts in and around radar science
+# A collection of illustrations and short animations I made to explain some concepts in atmospheric science and radar science
 
 All works CC BY-NC-ND (Attribution + Noncommercial + NoDerivatives)
+
+#### Midwest Corn Sweat
+![Midwest corn sweat](cornsweat4.png)
 
 #### How radars work (short version)
 ![How radars work](radar_text_vfs_irene.gif)
